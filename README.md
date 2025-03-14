@@ -1,4 +1,4 @@
-# [TimeSeriesX](https://github.com/sequinonez/build-multiple-Time-Series-models/tree/main): Intelligent Time Series Modeling 🚀  
+(https://github.com/sequinonez/build-multiple-Time-Series-models/tree/main): Intelligent Time Series Modeling 🚀
 
 This is a tool for time series modeling and forecasting.  
 It provides an automated approach that selects the best model among statistical techniques (ARIMA, SARIMAX, VAR) and Machine Learning methods (XGBoost, Random Forest).  
